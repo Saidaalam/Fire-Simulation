@@ -16,3 +16,6 @@ Setup:
 2. Open in Codeblocks (Should remain OpenGL)
 3. setup openGL if you don't have (https://youtu.be/ISK6_7YpmS0?si=Ep2cKHs-TObZV2N9)
 4. Build and Run
+
+Output:
+![Image](https://github.com/user-attachments/assets/f2218bc3-5688-4067-aaff-3171413a0e9d)
