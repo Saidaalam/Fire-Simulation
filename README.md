@@ -13,6 +13,6 @@ Applications:
 
 Setup:
 1. Clone the project
-2. Open this in Codeblocks(Should remain OpenGL)
+2. Open in Codeblocks (Should remain OpenGL)
 3. setup openGL if you don't have (https://youtu.be/ISK6_7YpmS0?si=Ep2cKHs-TObZV2N9)
 4. Build and Run
